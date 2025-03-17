@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coddgenealogy.github.io/Feiner/sitemap.xml
